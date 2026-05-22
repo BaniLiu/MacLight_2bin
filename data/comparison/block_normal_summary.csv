@@ -1,0 +1,4 @@
+﻿Algorithm,Return_mean,Return_std,waiting_list_mean,waiting_list_std,queue_list_mean,queue_list_std,speed_list_mean,speed_list_std
+IPPO,-5.608125000000001,,4839.0,,191.0,,4.76572788798691,
+IDQN,-6.814374999999998,,8797.0,,259.0,,3.6651208655616463,
+Fixed,-12.165625,,17579.0,,374.0,,2.961721711447038,

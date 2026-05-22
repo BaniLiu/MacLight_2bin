@@ -1,0 +1,4 @@
+﻿Algorithm,Seed,Return,waiting_list,queue_list,speed_list,Actor loss,Critic loss,VAE loss,Log time,Source
+Fixed,42,-12.165625,17579.0,374,2.961721711447038,,,,05-06 19:25:46,data\plot_data\block_normal\Fixed\42_Fixed_win32.csv
+IDQN,42,-6.814374999999998,8797.0,259,3.6651208655616463,,,,05-06 19:28:53,data\plot_data\block_normal\IDQN\42_IDQN_win32.csv
+IPPO,42,-5.608125000000001,4839.0,191,4.76572788798691,-0.0026384379561932,0.2834564584773034,,05-06 19:27:42,data\plot_data\block_normal\IPPO\42_IPPO_win32.csv
