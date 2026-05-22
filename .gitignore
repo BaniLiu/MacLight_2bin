@@ -1,0 +1,24 @@
+.ipynb_checkpoints/
+.vscode/
+*__pycache__/
+/wandb/*.log
+!/wandb/**/*.log
+latest_run
+*.pyc
+tmp.png
+backup/
+tmp/
+api_key.txt
+server_log/
+ckpt/
+data/
+log/
+test/
+image/blocked_exp
+model/
+data_to_image.py
+data_to_image copy.py
+policy_demo.py
+test.ipynb
+doc/
+CheckList.md
